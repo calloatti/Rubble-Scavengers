@@ -1,4 +1,8 @@
-1.1.0
-Performance optimizations
-1.0.0
-Initial release
+--------------------------------------------------------------------------------
+Game Version: 1.0.0.0
+Mod Version: 1.1.0
+- Performance optimizations
+--------------------------------------------------------------------------------
+Game Version: 1.0.0.0
+Mod Version: 1.0.0
+- Initial release
