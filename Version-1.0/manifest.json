@@ -1,15 +1,15 @@
-{
+﻿{
   "Id": "Calloatti.RubbleScavengers",
   "Name": "Rubble Scavengers",
   "Author": "Calloatti",
   "Version": "1.1.0",
   "MinimumGameVersion": "1.0.13.1",
   "Description": "Allows builder beavers to directly scavenge building materials from nearby rubble piles instead of waiting for haulers to move them to storage.",
-    "RequiredMods": [
-        {
-            "Id": "Harmony",
-            "MinVersion": "2.4.1"
-        }
-    ],
-    "OptionalMods": []
+  "RequiredMods": [
+    {
+      "Id": "Harmony",
+      "MinVersion": "2.4.1"
+    }
+  ],
+  "OptionalMods": []
 }
