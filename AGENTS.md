@@ -19,3 +19,8 @@ Beavers automatically scavenge rubble and recover goods from destroyed buildings
 |---|---|
 | `ModStarter.cs` | Entry point — `IModStarter` |
 | `ModPatches.cs` | Harmony patches for scavenging behavior |
+
+## Hard Rule
+DO NOT EVER TOUCH THE DEPLOY FOLDER.
+
+BUILD DOES EVERYTHING, NEVER EVER MESS WITH THE DEPLOY PROCESS.
